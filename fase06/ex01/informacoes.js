@@ -1,5 +1,6 @@
-function informacoes (obj, prop){
-
-return obj[prop]||false;
-
+function informacoes(obj, prop){
+    
+    {
+    return obj[prop]||false;
+    }
 }
